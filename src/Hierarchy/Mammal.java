@@ -2,7 +2,7 @@ package Hierarchy;
 
 import java.util.Objects;
 
-public class Mammal extends Animals {
+public abstract class Mammal extends Animals {
     private String livingEnvironment;
     private int travelSpeed;
 
